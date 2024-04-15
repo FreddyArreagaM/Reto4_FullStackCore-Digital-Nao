@@ -1,9 +1,13 @@
+//Declaración e inicialización de variables
 let presupuesto = 0;
 let restante = 0;
 let listGastos = [];
 
+//Función para agregar presupuesto.
 function agregar() {
-    const presupuestoInput = parseInt(document.getElementById('presupuesto').value);
+    const presupuestoInput = parseInt(document.getElementById('presupuesto').value);3
+
+    //Validación del input de presupuesto debe ser mayor a 0 y no vacío
     if (presupuestoInput <= 0 || isNaN(presupuestoInput)) {
         alert('El presupuesto debe ser un número mayor que 0.');
         return;
@@ -15,6 +19,7 @@ function agregar() {
     document.getElementById('presupuesto').value = ''; // Reiniciar el input de presupuesto
 }
 
+//Función para agregar los gastos en base a la cantidad del presupuesto.
 function agregarCantidad() {
     const nombreGasto = document.getElementById('nombreGasto').value;
     const cantidadGasto = parseInt(document.getElementById('cantidadGasto').value);
