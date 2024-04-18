@@ -49,7 +49,7 @@ Este mini proyecto se realizó con el objetivo de implementar un scroll infinito
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## 
+### 
 
 Se puede visualizar mediante la extensión Live Server para ejecutarla localmente en Visual Studio Code.
 
