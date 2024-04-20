@@ -19,7 +19,7 @@ function startCountdown(unit) {
       if (time <= 0) {
           // Si el tiempo ha terminado, detiene el intervalo y muestra un mensaje.
           clearInterval(countdownInterval);
-          countdownElement.textContent = '¡Tiempo terminado!';
+          countdownElement.textContent = '¡Feliz Año Nuevo 🎇!';
       } else {
           // Calcula los minutos y segundos restantes.
           var minutes = Math.floor(time / 60);
