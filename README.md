@@ -88,7 +88,7 @@ Se puede visualizar mediante la extensión Live Server para ejecutarla localment
 
 ## Mini-proyecto 4: Cuenta Regresiva
 
-Este mini proyecto se realizó con el objetivo de realizar una cuenta regresiva.
+Este mini proyecto se realizó con el objetivo de realizar una cuenta regresiva para el año nuevo.
 
 ### Stack utilizado 
 ### 
@@ -115,4 +115,33 @@ Se puede visualizar mediante la extensión Live Server para ejecutarla localment
 ![image](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/93c58f22-3a9e-46fc-baa1-822a9eb14261)
 
 
-Mini-proyecto 5: audio a número.
+## Mini-proyecto 5: Audio de número a texto.
+
+Este mini proyecto se realizó con el objetivo de realizar reconocimiento de audio de un número a texto y se incluyeron notificaciones con la librería Toastr.
+
+### Stack utilizado 
+### 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://jquery-plugins.net/image/plugin/toastr-simple-javascript-toast-notifications.png" height="40" alt="toastr logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+### 
+
+Se puede visualizar mediante la extensión Live Server para ejecutarla localmente en Visual Studio Code.
+
+![image](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/7fc2bcfe-66bf-4d88-bb40-545aca170410)
+
