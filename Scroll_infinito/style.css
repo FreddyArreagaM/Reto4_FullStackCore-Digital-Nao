@@ -1,0 +1,30 @@
+.container {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+#infinite-list {
+    background: rgb(255, 255, 255);
+    width: 500px;
+    height: 400px;
+    overflow: auto;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+    border-bottom: 1px solid rgb(146, 146, 146);;
+}
+
+li:hover {
+    background: #ccc;
+}
