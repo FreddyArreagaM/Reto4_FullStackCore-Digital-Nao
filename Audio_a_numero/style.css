@@ -1,0 +1,45 @@
+body{
+    background: #FFEFBA;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Usar la altura completa del viewport */
+}
+
+.btnIniciar{
+    background-color: rgb(0, 68, 176);
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px 5px;
+    font-size: 1.5rem;
+}
+
+.boton{
+    background-color: transparent;
+    margin-top: 40px;
+}
+
+.btnIniciar:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 68, 176);
+    border: 1px solid black;
+}
+
+.textarea{
+    background-color: transparent;
+    width: 500px;
+    padding: 5px 5px;
+}
+
+.texto{
+    width: 100%;
+    color: red;
+    pointer-events: none;
+}
