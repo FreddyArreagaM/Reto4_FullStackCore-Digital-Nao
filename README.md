@@ -141,6 +141,12 @@ Este mini proyecto se realizó con el objetivo de realizar reconocimiento de aud
 
 ### 
 
+Se puede visualizar mediante la extensión Live Server para ejecutarla localmente en Visual Studio Code.
+
+![image](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/992b82b3-b6dd-4d0c-8e0d-d4321495de76)
+
+### 
+
 ## Mini-proyecto 6: Numero en palabras
 
 Este mini proyecto se realizó con el objetivo de desarrollar una aplicación para escribir un número en palabras.
