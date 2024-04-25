@@ -1,7 +1,6 @@
 from typing import List
 import requests
 
-from bs4 import BeautifulSoup
 import reflex as rx
 import requests as rq
 import json
