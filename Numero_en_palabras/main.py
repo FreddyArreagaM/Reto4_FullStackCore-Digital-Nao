@@ -26,7 +26,7 @@ def numero_palabras(numero):
         decena = int(numero[-2])
         centena = int(numero[-3])
 
-        palabras = '{} {}{}'.format(centenas[centena], decenas[decena], unidades[unidad]).strip()
+        palabras = '{} {} {}'.format(centenas[centena], decenas[decena], unidades[unidad]).strip()
 
         # print(palabras)
 
@@ -43,7 +43,7 @@ def numero_palabras(numero):
             palabras = palabras.replace('dieci', 'diez')
         elif palabras.endswith('veinti'):
             palabras = palabras.replace('veinti', 'veinte')
-        elif palabras.endswith(' y'):
+        elif palabras.endswith(' y '):
             palabras = palabras[:-2]
         elif palabras.endswith('ciento'):
             palabras = palabras.replace('ciento', 'cien')
