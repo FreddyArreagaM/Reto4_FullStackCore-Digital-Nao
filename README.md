@@ -284,14 +284,11 @@ Este mini proyecto se realizó con el objetivo de desarrollar una aplicación pa
 
 ### 
 
-Se puede visualizar mediante la extensión Live Server para ejecutarla localmente en Visual Studio Code.
+Se puede visualizar mediante el Debug Python Flask en el IDE Visual Studio Code.
+Instalando las dependencias necesarias para utilizar el Framework Flask según la documentación oficial. 
 
 ![Imagen de WhatsApp 2024-04-26 a las 19 19 04_a32b0b01](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/da5a83ad-64f0-448e-a829-3ee8c0c9da63)
 
 ![Imagen de WhatsApp 2024-04-26 a las 19 24 07_40b89e53](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/5ea6d210-0223-4314-82c3-249ce503a7bc)
 
-
-### 
-
-Se puede visualizar por medio de la consola ya sea del Visual Studio Code o algun otro IDE.
 
