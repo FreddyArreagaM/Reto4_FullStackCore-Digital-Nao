@@ -6,7 +6,13 @@ def consultar_saldo():
 def recargar_saldo():
     global saldo
     print("Introduce el monto a recargar:")
-    monto = float(input())
+    while True:
+        monto = input()
+        if monto.isdigit():
+            monto = float(monto)
+            break
+        else:
+            print("Por favor, introduce solo números.")
     saldo += monto
     print("\nRecargaste $", monto, "correctamente")
     print("Saldo actual: $" + str(saldo))
@@ -14,12 +20,20 @@ def recargar_saldo():
 def transferir_saldo():
     global saldo
     print("\nIntroduce el número de teléfono del destinatario:")
-    destinatario = input()
-    if len(destinatario) != 10:
-        print("El número de teléfono debe tener 10 dígitos.")
-        return
+    while True:
+        destinatario = input()
+        if destinatario.isdigit() and len(destinatario) == 10:
+            break
+        else:
+            print("El número de teléfono debe tener 10 dígitos. Por favor, inténtalo nuevamente.")
     print("Introduce el monto a transferir:")
-    monto = float(input())
+    while True:
+        monto = input()
+        if monto.isdigit():
+            monto = float(monto)
+            break
+        else:
+            print("Por favor, introduce solo números.")
     if monto <= saldo:
         saldo -= monto
         print("Has transferido $", monto, " al número", destinatario, ". Saldo restante: $" + str(saldo))
