@@ -256,7 +256,39 @@ Este mini proyecto se realizó con el objetivo de desarrollar un pequeño juego 
 
 ###
 
+## Mini-proyecto 11: Dibujar con el Mouse
+
+Este mini proyecto se realizó con el objetivo de desarrollar una aplicación para dibujar con el mouse en la pantalla.
+
+### Stack utilizado 
+### 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
 ### 
 
-Se puede visualizar por medio de la consola ya sea del Visual Studio Code o algun otro IDE.
+Se puede visualizar mediante el Debug Python Flask en el IDE Visual Studio Code.
+Instalando las dependencias necesarias para utilizar el Framework Flask según la documentación oficial. 
+
+![Imagen de WhatsApp 2024-04-26 a las 19 19 04_a32b0b01](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/da5a83ad-64f0-448e-a829-3ee8c0c9da63)
+
+![Imagen de WhatsApp 2024-04-26 a las 19 24 07_40b89e53](https://github.com/FreddyArreagaM/Reto4_FullStackCore-Digital-Nao/assets/127709400/5ea6d210-0223-4314-82c3-249ce503a7bc)
+
 
